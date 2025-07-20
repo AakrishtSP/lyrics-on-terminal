@@ -1,0 +1,606 @@
+ERROR:root:UI init error: 'LyricsPlayer' object has no attribute 'setup_signal_handlers'
+INFO:root:Searching lyrics for: YOASOBI - アイドル (213.233s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 物語シリーズ - 恋愛サーキュレーション (255.04s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 物語シリーズ - 恋愛サーキュレーション (255.04s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 物語シリーズ - 恋愛サーキュレーション (255.04s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 物語シリーズ - 恋愛サーキュレーション (255.04s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: B小町 - SIGN IS B - AI SOLO VER. (213.793s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=SIGN+IS+B+-+AI+SOLO+VER.&artist_name=B%E5%B0%8F%E7%94%BA&album_name=TV+SERIES+%E2%80%9D%E3%80%90OSHI+NO+KO%E3%80%91+%E2%80%9D+%28Vol.1%29&duration=213
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: B小町 - SIGN IS B - AI SOLO VER. (213.793s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=SIGN+IS+B+-+AI+SOLO+VER.&artist_name=B%E5%B0%8F%E7%94%BA&album_name=TV+SERIES+%E2%80%9D%E3%80%90OSHI+NO+KO%E3%80%91+%E2%80%9D+%28Vol.1%29&duration=213
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: Yorushika - 斜陽 (200.0s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=%E6%96%9C%E9%99%BD&artist_name=Yorushika&album_name=%E6%96%9C%E9%99%BD&duration=200
+INFO:root:Using lyrics: Yorushika - 斜陽 - Setting Sun
+INFO:root:Searching lyrics for: Yorushika - 斜陽 (200.186s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=%E6%96%9C%E9%99%BD&artist_name=Yorushika&album_name=%E6%96%9C%E9%99%BD&duration=200
+INFO:root:Using lyrics: Yorushika - 斜陽 - Setting Sun
+INFO:root:Searching lyrics for: Yorushika - 斜陽 (200.186s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=%E6%96%9C%E9%99%BD&artist_name=Yorushika&album_name=%E6%96%9C%E9%99%BD&duration=200
+INFO:root:Using lyrics: Yorushika - 斜陽 - Setting Sun
+INFO:root:Searching lyrics for: Yorushika - 斜陽 (200.186s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=%E6%96%9C%E9%99%BD&artist_name=Yorushika&album_name=%E6%96%9C%E9%99%BD&duration=200
+INFO:root:Using lyrics: Yorushika - 斜陽 - Setting Sun
+INFO:root:Searching lyrics for: Yorushika - 斜陽 (200.186s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=%E6%96%9C%E9%99%BD&artist_name=Yorushika&album_name=%E6%96%9C%E9%99%BD&duration=200
+INFO:root:Using lyrics: Yorushika - 斜陽 - Setting Sun
+INFO:root:Searching lyrics for: Yorushika - 斜陽 (200.186s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=%E6%96%9C%E9%99%BD&artist_name=Yorushika&album_name=%E6%96%9C%E9%99%BD&duration=200
+INFO:root:Using lyrics: Yorushika - 斜陽 - Setting Sun
+INFO:root:Searching lyrics for: Yorushika - 斜陽 (200.186s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=%E6%96%9C%E9%99%BD&artist_name=Yorushika&album_name=%E6%96%9C%E9%99%BD&duration=200
+INFO:root:Using lyrics: Yorushika - 斜陽 - Setting Sun
+INFO:root:Searching lyrics for: Yorushika - 斜陽 (200.186s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=%E6%96%9C%E9%99%BD&artist_name=Yorushika&album_name=%E6%96%9C%E9%99%BD&duration=200
+INFO:root:Using lyrics: Yorushika - 斜陽 - Setting Sun
+INFO:root:Searching lyrics for: Sushant Ghimire - Pari (259.0s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=Pari&artist_name=Sushant+Ghimire&album_name=Pari&duration=259
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: The Elements - Sapana Ko Mayalu (247.865s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: The Elements - Sapana Ko Mayalu (247.865s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: The Elements - Sapana Ko Mayalu (247.865s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: The Elements - Sapana Ko Mayalu (247.865s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: The Elements - Sapana Ko Mayalu (247.865s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: The Elements - Sapana Ko Mayalu (247.865s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: The Elements - Sapana Ko Mayalu (247.865s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Sajjan Raj Vaidya - Ek Sarvanaam (227.586s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Sajjan Raj Vaidya - Ek Sarvanaam (227.586s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Sajjan Raj Vaidya - Ek Sarvanaam (227.586s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Sajjan Raj Vaidya - Ek Sarvanaam (227.586s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Sajjan Raj Vaidya - Ek Sarvanaam (227.586s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Sajjan Raj Vaidya - Ek Sarvanaam (227.586s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Sajjan Raj Vaidya - Ek Sarvanaam (227.586s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Sajjan Raj Vaidya - Ek Sarvanaam (227.586s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yabesh Thapa - Aakhale (173.714s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yabesh Thapa - Aakhale (173.714s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yabesh Thapa - Aakhale (173.714s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yabesh Thapa - Aakhale (173.714s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yoh kamiyama - 色香水 (253.0s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yoh kamiyama - 色香水 (253.053s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yoh kamiyama - 色香水 (253.053s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yoh kamiyama - 色香水 (253.053s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yoh kamiyama - 色香水 (253.053s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yoh kamiyama - 色香水 (253.053s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yoh kamiyama - 色香水 (253.053s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yoh kamiyama - 色香水 (253.053s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yoh kamiyama - 色香水 (253.053s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yoh kamiyama - 色香水 (253.053s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yoh kamiyama - 色香水 (253.053s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yoh kamiyama - 色香水 (253.053s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yoh kamiyama - 色香水 (253.053s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yoh kamiyama - 色香水 (253.053s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yoh kamiyama - 色香水 (253.053s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: LiSA - 炎 (275.0s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: LiSA - 炎 (275.0s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: LiSA - 炎 (275.0s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: LiSA - 炎 (275.0s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: LiSA - 炎 (275.0s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: LiSA - 炎 (275.0s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: LiSA - 炎 (275.0s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: LiSA - 炎 (275.0s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: LiSA - 炎 (275.0s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: LiSA - 炎 (275.0s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Motohiro Hata - Rain (293.04s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Motohiro Hata - Rain (293.04s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Motohiro Hata - Rain (293.04s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Motohiro Hata - Rain (293.04s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Motohiro Hata - Rain (293.04s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Motohiro Hata - Rain (293.04s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Motohiro Hata - Rain (293.04s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Motohiro Hata - Rain (293.04s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Motohiro Hata - Rain (293.04s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Unknown Artist - Unknown Track (0.0s)
+WARNING:root:Direct lookup failed: 400 Bad Request for https://lrclib.net/api/get?track_name=Unknown+Track&artist_name=Unknown+Artist&album_name=Unknown+Album&duration=0
+INFO:root:Using lyrics: Unknown Artist - Unknown Track
+INFO:root:Searching lyrics for: Unknown Artist - Unknown Track (0.0s)
+WARNING:root:Direct lookup failed: 400 Bad Request for https://lrclib.net/api/get?track_name=Unknown+Track&artist_name=Unknown+Artist&album_name=Unknown+Album&duration=0
+INFO:root:Using lyrics: Unknown Artist - Unknown Track
+INFO:root:Searching lyrics for: Unknown Artist - Unknown Track (0.0s)
+WARNING:root:Direct lookup failed: 400 Bad Request for https://lrclib.net/api/get?track_name=Unknown+Track&artist_name=Unknown+Artist&album_name=Unknown+Album&duration=0
+INFO:root:Using lyrics: Unknown Artist - Unknown Track
+ERROR:root:Metadata error: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+INFO:root:Searching lyrics for: yama - Haru wo Tsugeru (196.497s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: yama - Haru wo Tsugeru (196.497s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: yama - Haru wo Tsugeru (196.497s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: yama - Haru wo Tsugeru (196.497s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yuuri - カーテンコール (243.026s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB&artist_name=Yuuri&album_name=%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB&duration=243
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: Yuuri - カーテンコール (243.026s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB&artist_name=Yuuri&album_name=%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB&duration=243
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: Yuuri - カーテンコール (243.026s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB&artist_name=Yuuri&album_name=%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB&duration=243
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: Yuuri - カーテンコール (243.026s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB&artist_name=Yuuri&album_name=%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB&duration=243
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: Yuuri - カーテンコール (243.026s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB&artist_name=Yuuri&album_name=%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB&duration=243
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: Yuuri - カーテンコール (243.026s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB&artist_name=Yuuri&album_name=%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB&duration=243
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: Yuuri - カーテンコール (243.026s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB&artist_name=Yuuri&album_name=%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB&duration=243
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: Yuuri - カーテンコール (243.026s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB&artist_name=Yuuri&album_name=%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB&duration=243
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: RADWIMPS - 前前前世 - movie ver. (285.88s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: RADWIMPS - 前前前世 - movie ver. (285.88s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: RADWIMPS - 前前前世 - movie ver. (285.88s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: RADWIMPS - 前前前世 - movie ver. (285.88s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: RADWIMPS - 前前前世 - movie ver. (285.88s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: RADWIMPS - 前前前世 - movie ver. (285.88s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: RADWIMPS - 前前前世 - movie ver. (285.88s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: RADWIMPS - 前前前世 - movie ver. (285.88s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: RADWIMPS - 前前前世 - movie ver. (285.88s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: RADWIMPS - 前前前世 - movie ver. (285.88s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 美波 - カワキヲアメク (251.933s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 美波 - カワキヲアメク (251.933s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 美波 - カワキヲアメク (251.933s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 美波 - カワキヲアメク (251.933s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 美波 - カワキヲアメク (251.933s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 美波 - カワキヲアメク (251.933s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 美波 - カワキヲアメク (251.933s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 美波 - カワキヲアメク (251.933s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 美波 - カワキヲアメク (251.933s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Kocchi no Kento - Hai Yorokonde (161.632s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Kocchi no Kento - Hai Yorokonde (161.632s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Kocchi no Kento - Hai Yorokonde (161.632s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Kocchi no Kento - Hai Yorokonde (161.632s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Kocchi no Kento - Hai Yorokonde (161.632s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Kocchi no Kento - Hai Yorokonde (161.632s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Hisao Noguchi - ウィーアー! (第1-47話 OP) (216.428s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Hisao Noguchi - ウィーアー! (第1-47話 OP) (216.428s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Hisao Noguchi - ウィーアー! (第1-47話 OP) (216.428s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Hisao Noguchi - ウィーアー! (第1-47話 OP) (216.428s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Hisao Noguchi - ウィーアー! (第1-47話 OP) (216.428s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Hisao Noguchi - ウィーアー! (第1-47話 OP) (216.428s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Hisao Noguchi - ウィーアー! (第1-47話 OP) (216.428s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Hisao Noguchi - ウィーアー! (第1-47話 OP) (216.428s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: clearance - Chiisana koi no uta (228.653s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=Chiisana+koi+no+uta&artist_name=clearance&album_name=On+and+On&duration=228
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: clearance - Chiisana koi no uta (228.653s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=Chiisana+koi+no+uta&artist_name=clearance&album_name=On+and+On&duration=228
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: clearance - Chiisana koi no uta (228.653s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=Chiisana+koi+no+uta&artist_name=clearance&album_name=On+and+On&duration=228
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: clearance - Chiisana koi no uta (228.653s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=Chiisana+koi+no+uta&artist_name=clearance&album_name=On+and+On&duration=228
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: clearance - Chiisana koi no uta (228.653s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=Chiisana+koi+no+uta&artist_name=clearance&album_name=On+and+On&duration=228
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: clearance - Chiisana koi no uta (228.653s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=Chiisana+koi+no+uta&artist_name=clearance&album_name=On+and+On&duration=228
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: clearance - Chiisana koi no uta (228.653s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=Chiisana+koi+no+uta&artist_name=clearance&album_name=On+and+On&duration=228
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: clearance - Chiisana koi no uta (228.653s)
+WARNING:root:Direct lookup failed: 404 Not Found for https://lrclib.net/api/get?track_name=Chiisana+koi+no+uta&artist_name=clearance&album_name=On+and+On&duration=228
+WARNING:root:No lyrics found in search results
+INFO:root:Searching lyrics for: Yunomi - Koino Uta (209.898s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yunomi - Koino Uta (209.898s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yunomi - Koino Uta (209.898s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yunomi - Koino Uta (209.898s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yunomi - Koino Uta (209.898s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yunomi - Koino Uta (209.898s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yunomi - Koino Uta (209.898s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - わがまま。 (247.614s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yorushika - だから僕は音楽を辞めた (242.912s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yorushika - だから僕は音楽を辞めた (242.912s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yorushika - だから僕は音楽を辞めた (242.912s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: MUSASHI PROJECT - NARUTO Main Theme (266.92s)
+INFO:root:Using lyrics: MUSASHI PROJECT - Naruto Main Theme
+INFO:root:Searching lyrics for: MUSASHI PROJECT - NARUTO Main Theme (266.92s)
+INFO:root:Using lyrics: MUSASHI PROJECT - Naruto Main Theme
+INFO:root:Searching lyrics for: MUSASHI PROJECT - NARUTO Main Theme (266.92s)
+INFO:root:Using lyrics: MUSASHI PROJECT - Naruto Main Theme
+INFO:root:Searching lyrics for: MUSASHI PROJECT - NARUTO Main Theme (266.92s)
+INFO:root:Using lyrics: MUSASHI PROJECT - Naruto Main Theme
+INFO:root:Searching lyrics for: Yorushika - ただ君に晴れ (199.0s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yorushika - ただ君に晴れ (198.971s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yorushika - ただ君に晴れ (198.971s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yorushika - ただ君に晴れ (198.971s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yorushika - ただ君に晴れ (198.971s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yorushika - ただ君に晴れ (198.971s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: Yorushika - ただ君に晴れ (198.971s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics
+INFO:root:Searching lyrics for: 『ユイカ』 - すないぱー。 (208.312s)
+INFO:root:Found direct match using get_lyrics

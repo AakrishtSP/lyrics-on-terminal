@@ -1,0 +1,36 @@
+user_agent: "LyricsTerminalPlayer/1.0 (https://github.com/yourusername/lyrics-player)"
+
+player_priority:
+  - spotify
+  - vlc
+  - rhythmbox
+  - clementine
+
+colors:
+  clock:
+    fg: cyan
+    attrs: [bold]
+  song_info:
+    fg: magenta
+    attrs: [bold]
+  progress_bar:
+    fg: white
+    attrs: []
+  past_lyrics:
+    fg: yellow
+    attrs: []
+  current_lyric:
+    fg: blue
+    attrs: [bold]
+  future_lyrics:
+    fg: white
+    attrs: []
+  progress_time:
+    fg: white
+    attrs: []
+
+ui:
+  progress_bar_filled: "▓"
+  progress_bar_unfilled: "░"
+  time_format: "%H:%M:%S"
+  song_duration_format: "{minutes:02d}:{seconds:02d}"

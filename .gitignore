@@ -1,0 +1,5 @@
+venv
+lyrics_player.log
+.pytest_cache
+__pycache__/
+.venv
